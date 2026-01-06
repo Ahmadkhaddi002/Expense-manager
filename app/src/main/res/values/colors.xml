@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#0D1B2A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orangeDark">#1B4965</color>
+
+
+    <color name="orange">#5FA8D3</color>
+    <color name="textColor">#1B3B6F</color>
+    <color name="greenColor">#4A9FE3</color>
+    <color name="redColor">#E15554</color>
+
+
+    <color name="category1">#62B6CB</color>
+    <color name="category2">#5FA8D3</color>
+    <color name="category3">#1B4965</color>
+    <color name="category4">#2196F3</color>
+    <color name="category5">#90E0EF</color>
+    <color name="category6">#0077B6</color>
+
+
+    <color name="bank_color">#A8004175</color>
+    <color name="cash_color">#A862B6CB</color>
+    <color name="card_color">#A81B4965</color>
+    <color name="default_color">#A85FA8D3</color>
+
+    <!-- Blue Gradient Colors -->
+    <color name="blue_50">#E3F2FD</color>
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_200">#90CAF9</color>
+    <color name="blue_300">#64B5F6</color>
+    <color name="blue_400">#42A5F5</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_600">#1E88E5</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="blue_800">#1565C0</color>
+    <color name="blue_900">#0D47A1</color>
+
+    <!-- Ocean Theme Colors -->
+    <color name="ocean_deep">#03045E</color>
+    <color name="ocean_dark">#0077B6</color>
+    <color name="ocean_medium">#00B4D8</color>
+    <color name="ocean_light">#90E0EF</color>
+    <color name="ocean_foam">#CAF0F8</color>
+
+    <!-- Sky Theme Colors -->
+    <color name="sky_dawn">#E0F7FA</color>
+    <color name="sky_morning">#B2EBF2</color>
+    <color name="sky_day">#80DEEA</color>
+    <color name="sky_evening">#4DD0E1</color>
+    <color name="sky_night">#26C6DA</color>
+
+    <!-- Professional Blue Accents -->
+    <color name="accent_primary">#2196F3</color>
+    <color name="accent_secondary">#64B5F6</color>
+    <color name="accent_tertiary">#90CAF9</color>
+
+    <!-- Blueish Backgrounds -->
+    <color name="bg_primary">#F8F9FA</color>
+    <color name="bg_secondary">#E3F2FD</color>
+    <color name="bg_tertiary">#BBDEFB</color>
+
+    <!-- Blueish Text Colors -->
+    <color name="text_primary_blue">#0D47A1</color>
+    <color name="text_secondary_blue">#1976D2</color>
+    <color name="text_tertiary_blue">#64B5F6</color>
+
+    <!-- Blueish State Colors -->
+    <color name="state_success">#4DB6AC</color>
+    <color name="state_warning">#FFB74D</color>
+    <color name="state_error">#E57373</color>
+    <color name="state_info">#4FC3F7</color>
+
+    <!-- Blueish Border Colors -->
+    <color name="border_light_blue">#BBDEFB</color>
+    <color name="border_medium_blue">#90CAF9</color>
+    <color name="border_dark_blue">#64B5F6</color>
+
+    <!-- Ice/Cold Blues -->
+    <color name="ice_blue">#E0F7FA</color>
+    <color name="frost_blue">#B2EBF2</color>
+    <color name="glacier_blue">#80DEEA</color>
+    <color name="arctic_blue">#4DD0E1</color>
+
+    <!-- Twilight Blues -->
+    <color name="twilight_dusk">#5D5C7B</color>
+    <color name="twilight_night">#3A3B5C</color>
+    <color name="twilight_midnight">#2A2D43</color>
+    <color name="twilight_dawn">#6A93B8</color>
+</resources>
